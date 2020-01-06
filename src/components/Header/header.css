@@ -1,0 +1,12 @@
+.header {
+    background-color: white;
+    border-bottom: 1px solid #3f8afc;
+}
+
+.menu {
+    justify-content: space-around;
+}
+
+.iconButton {
+    color: #3f8afc;
+}

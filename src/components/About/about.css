@@ -1,0 +1,18 @@
+.about {
+    background-color: #3f8afc;
+    padding: 5rem;
+    margin: 1rem auto;
+    color: white;
+}
+
+.about h3,
+h2,
+h4,
+h1,
+h5 {
+    color: white;
+}
+
+.about span {
+    color: white;
+}
